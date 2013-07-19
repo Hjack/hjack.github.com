@@ -1,16 +1,25 @@
 ---
 layout: page
-title: Hakimu Jackson | Web Developer
+title: Home
+
 ---
 {% include JB/setup %}
 
-<div class="contact">
+
+<div class="container">
+  <h3><q><em>"Technology does not drive change...it enables change"</em></q></h3>
+  <h5>Unknown</h5>
+</div>
+<br>
+<!-- <h1>Test</h1> -->
+
+<!-- <div class="contact">
   <p>
     <a href="http://github.com/Hjack/">github.com/Hjack</a><br />
     <a href="http://twitter.com/HakimuJ/">twitter.com/HakimuJ</a><br />
     <a href="http://www.linkedin.com/pub/hakimu-jackson/51/3a6/a08">LinkedIn</a><br />
   </p>
-</div>
+</div> -->
 
 <!-- Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
@@ -37,7 +46,7 @@ When you don't need the samples anymore just delete the `_posts/core-samples` fo
 
     $ rm -rf _posts/core-samples -->
 
-Here's a sample "posts list".
+Blog Posts...
 
 <ul class="posts">
   {% for post in site.posts %}
