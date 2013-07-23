@@ -2,8 +2,8 @@
 layout: post
 title: "New Relic Tour"
 description: ""
-category: 
-tags: []
+category: jekyll update
+
 ---
 {% include JB/setup %}
 
