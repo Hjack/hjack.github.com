@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "So It Begins..."
-date:   2013-06-08 11:39:14
+description: ""
 categories: jekyll update
 ---
+
+{% include JB/setup %}
 
 My first week of the Portland Code School has been an absolute whirlwind.  As I ancticipated, this will be an extremely intense enviornment.  
 
