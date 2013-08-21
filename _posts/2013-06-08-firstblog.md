@@ -3,6 +3,7 @@ layout: post
 title:  "So It Begins..."
 description: ""
 categories: jekyll update
+
 ---
 
 {% include JB/setup %}
