@@ -2,7 +2,7 @@
 layout: post
 title:  "Deep Dive into Rails"
 description: ""
-categories: jekyll update
+<!-- categories: jekyll update -->
 ---
 
 {% include JB/setup %}

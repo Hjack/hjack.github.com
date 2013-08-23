@@ -2,7 +2,7 @@
 layout: post
 title:  "So It Begins..."
 description: ""
-categories: jekyll update
+<!-- categories: jekyll update -->
 
 ---
 
